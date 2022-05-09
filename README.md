@@ -1,6 +1,6 @@
 Created: 03/31/2022
 
-This program uses JavaFX to create a GUI to allow a user to enter a property's value and tax on the property to get a value on the property and the tax owed on it.
+This program uses JavaFX to create a GUI to allow a user to enter a property's price and tax on the property to get a value on the property (60%) and the tax owed on it.
 
 Here is a quick test of the program:
 
